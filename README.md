@@ -1,1 +1,1 @@
-The malware in here is just training not a real malware, it just simple script.
+The malware in here it was for learning, not a real malware, it just simple script.
